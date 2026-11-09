@@ -1,0 +1,10 @@
+# Compiled output
+*.class
+target/
+build/
+out/
+bin/
+
+# Packaged artifacts
+*.jar
+*.war
